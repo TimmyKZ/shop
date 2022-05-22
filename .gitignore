@@ -103,7 +103,6 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
 env/
 venv/
 ENV/
@@ -137,3 +136,4 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 .gitignore
+.idea
